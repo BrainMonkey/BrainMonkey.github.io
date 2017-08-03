@@ -1,5 +1,8 @@
 # BrainMonkey.github.io
 ## General Information
+[Blog](https://goo.gl/uFFs4u "Blog")
+
+
 ### Python
 #### Basics
 #### Data Structures
